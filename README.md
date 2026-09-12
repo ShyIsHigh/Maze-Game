@@ -4,7 +4,7 @@ This is just a simple maze game.
 
 Just download it as a zip file, unpack it and open the .exe!
 
-(it is advised **not** to try to close the game during level 3.)
+(it is advised **not** to try to close the game during level 3...)
 
 
 
